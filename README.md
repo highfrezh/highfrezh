@@ -1,10 +1,10 @@
-### Hi there Friends!👋
+                                                         ## Hi there👋, I'm Olabintan Ibraheem!
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highfrezh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <img 
    src="https://github-readme-stats.vercel.app/api?username=highfrezh&show_icons=true&theme=tokyonight" 
-/>
-    
+/>   
 
 <!--
 **highfrezh/highfrezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
