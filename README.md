@@ -1,8 +1,8 @@
 <h2 align="center">Hi there👋, I'm Olabintan Ibraheem!</h2>
 
-#### I'm Backend developer!
+### I'm Backend developer!
 
-##### From the day I wrote my first line of code I knew I was hooked. My passion for programming lead me to master problem solving, ability to learn quickly and always stay on top new technologies. I am looking for the right opportunity to develop my career. Below you will find my recent projects that showcase my skills in web development.
+#### From the day I wrote my first line of code I knew I was hooked. My passion for programming lead me to master problem solving, ability to learn quickly and always stay on top new technologies. I am looking for the right opportunity to develop my career. Below you will find my recent projects that showcase my skills in web development.
 
 
 
