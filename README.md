@@ -1,4 +1,4 @@
-                                                         ## Hi there👋, I'm Olabintan Ibraheem!
+<h2 align="center">Hi there👋, I'm Olabintan Ibraheem!</h2>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highfrezh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
