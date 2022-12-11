@@ -65,7 +65,7 @@ src="https://img.shields.io/github/followers/highfrezh?logo=github&style=for-the
 
 <!-- <a href="http://www.github.com/highfrezh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=highfrezh&stroke=facc15&background=000000&ring=facc15&fire=facc15&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a> -->
 
-<a href="http://www.github.com/highfrezh"><img src="https://activity-graph.herokuapp.com/graph?username=highfrezh&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/highfrezh"><img src="https://activity-graph.herokuapp.com/graph?username=highfrezh&bg_color=000000&color=facc15&line=f97316&point=facc15&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
 <a href="https://github.com/highfrezh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=highfrezh&langs_count=10&title_color=facc15&text_color=facc15&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
