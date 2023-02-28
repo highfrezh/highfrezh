@@ -5,15 +5,16 @@
 Software Engineer
 ------------------
 
-#### I was captivated as soon as I wrote my first line of code. My love for programming has helped me become an expert problem solver, develop a rapid learning curve, and constantly stay up to date with new technologies. To advance my profession, I'm seeking for the best chance. My most recent projects, which highlight my web development abilities, are listed below.
+#### I am a passionate data professional who is constantly eager to learn new things. I have a strong interest in technology, especially when it comes to using data to solve issues and alter company procedures. In order to ensure long-term relevance, I continually hone my abilities and add to my knowledge while looking for opportunities to communicate the inherent value of data to stakeholders.
+My commitment on high-quality work, ability to communicate clearly, and flexibility to work in teams or alone always make me stand out.
 
 
 * 🌍  I'm based in nigeria.
 * ✉️  You can contact me at [olabintanibraheem@gmail.com](mailto:olabintanibraheem@gmail.com)
-* 🚀  I'm currently working on [@Optikkaltech](https://twitter.com/optikkaltech)
+<!-- * 🚀  I'm currently working on [@Optikkaltech](https://twitter.com/optikkaltech) -->
 * 🧠  I'm learning Software Development with Python
 * 🤝  I'm open to collaborating on Full Stack Application / Startup / Backend.
-* ⚡  Ask me about Php, Laravel, Python.
+* ⚡  Ask me about Python | Data science| ML | AI...
 
 <a href="https://www.twitter.com/highfrezh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/highfrezh?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
