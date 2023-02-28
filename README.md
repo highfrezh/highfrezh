@@ -9,11 +9,11 @@ Data Scientist
 My commitment on high-quality work, ability to communicate clearly, and flexibility to work in teams or alone always make me stand out.
 
 
-* 🌍  I'm based in nigeria.
+* 🌍  I'm based in Nigeria.
 * ✉️  You can contact me at [olabintanibraheem@gmail.com](mailto:olabintanibraheem@gmail.com)
 <!-- * 🚀  I'm currently working on [@Optikkaltech](https://twitter.com/optikkaltech) -->
-* 🧠  I'm learning Software Development with Python
-* 🤝  I'm open to collaborating on Full Stack Application / Startup / Backend.
+* 🧠  I'm learning Data Science with Python
+* 🤝  I'm open to collaborating on Data Science / ML / AI / Startup.
 * ⚡  Ask me about Python | Data science| ML | AI...
 
 <a href="https://www.twitter.com/highfrezh" target="_blank" rel="noreferrer"><img
