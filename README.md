@@ -1,8 +1,8 @@
-<h2 align="center">Hi there👋, I'm Olabintan Ibraheem!</h2>
+<h2 align="center">Hi there👋, I'm Ibraheem Olabintan!</h2>
 
 ==============================
 
-Data Scientist
+Machine Learning || Python Developer
 ------------------
 
 #### I am a passionate data professional who is constantly eager to learn new things. I have a strong interest in technology, especially when it comes to using data to solve issues and alter company procedures. In order to ensure long-term relevance, I continually hone my abilities and add to my knowledge while looking for opportunities to communicate the inherent value of data to stakeholders.
@@ -12,9 +12,9 @@ My commitment on high-quality work, ability to communicate clearly, and flexibil
 * 🌍  I'm based in Nigeria.
 * ✉️  You can contact me at [olabintanibraheem@gmail.com](mailto:olabintanibraheem@gmail.com)
 <!-- * 🚀  I'm currently working on [@Optikkaltech](https://twitter.com/optikkaltech) -->
-* 🧠  I'm learning Data Science with Python
-* 🤝  I'm open to collaborating on Data Science / ML / AI / Startup.
-* ⚡  Ask me about Python | Data science| ML | AI...
+* 🧠  I'm learning AI Engineering with Python
+* 🤝  I'm open to collaborating on ML / AI / Startup.
+* ⚡  Ask me about Python | ML | AI...
 
 <a href="https://www.twitter.com/highfrezh" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/highfrezh?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
