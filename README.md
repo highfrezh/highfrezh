@@ -2,7 +2,7 @@
 
 ==============================
 
-Machine Learning || Python Developer
+Machine Learning Engineer || Python Developer
 ------------------
 
 #### I am a passionate data professional who is constantly eager to learn new things. I have a strong interest in technology, especially when it comes to using data to solve issues and alter company procedures. In order to ensure long-term relevance, I continually hone my abilities and add to my knowledge while looking for opportunities to communicate the inherent value of data to stakeholders.
