@@ -1,63 +1,50 @@
-<h2 align="center">Hi there 👋, I'm Ibraheem Olabintan!</h2>
+## Ibraheem Olabintan
 
-==============================
+**Software Engineer | Python · FastAPI · AI Automation**
 
-Python Developer || Software Engineer
-------------------
+Lagos, Nigeria · Open to remote
 
-#### I'm a passionate software professional who is constantly eager to learn and grow. I have a strong interest in technology, especially when it comes to building scalable solutions and improving business processes through software. I continuously refine my skills and expand my knowledge to stay relevant, while seeking opportunities to deliver high-quality, impactful solutions.
-My commitment to excellence, clear communication, and adaptability—whether working in teams or independently—always make me stand out.
+Backend engineer building production APIs and autonomous AI systems. I design stateful agent pipelines, REST APIs, and cloud-deployed infrastructure that turns complex workflows into reliable, scalable products.
 
-* 🌍  I'm based in Nigeria.
-* ✉️  You can contact me at [olabintanibraheem@gmail.com](mailto:olabintanibraheem@gmail.com)
-<!-- * 🚀  I'm currently working on [@Optikkaltech](https://twitter.com/optikkaltech) -->
-* 🧠 I'm learning advanced Python and full-stack software development
-* 🤝 I'm open to collaborating on software projects and startups
-* ⚡ Ask me about Python | Web Development | APIs | Automation
+---
 
-<a href="https://www.twitter.com/highfrezh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/highfrezh?logo=twitter&style=for-the-badge&color=f97316&labelColor=000000"
-/></a><a href="https://www.github.com/highfrezh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/highfrezh?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
-<!-- <a href="https://www.youtube.com/channel/UCVzQyQe-OxsBpQY1jA2xo3w">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCVzQyQe-OxsBpQY1jA2xo3w?color=red&logo=youtube&style=for-the-badge&labelColor=ce4630">
-</a> -->
-<!-- <a href="https://www.youtube.com/channel/UCVzQyQe-OxsBpQY1jA2xo3w">
-  <img alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCVzQyQe-OxsBpQY1jA2xo3w?color=blue&label=View%20count&logo=youtube&style=for-the-badge&labelColor=0b689d">
-</a> -->
+### Featured Project
+
+**[FinAgent](https://github.com/highfrezh/FinAgent)** — Autonomous AI Invoice Processing  
+`Python · FastAPI · LangGraph · PostgreSQL · Redis · Docker · Streamlit`
+
+Multi-agent system that automates enterprise invoice processing with 80% cost reduction.  
+- 4-agent pipeline: Ingestion → Validation → Anomaly Detection → Reporting
+- 6-rule anomaly engine with risk scoring and human-in-the-loop approval
+- Swappable LLM backends (Claude, Groq, Ollama) via environment config
+- Deployed with Docker Compose, real-time Streamlit dashboard
 
 
+---
 
-<!-- ### Support Me -->
+### Stack
 
-<!-- <a href="https://www.buymeacoffee.com/benrobo"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
+**Backend:** Python, FastAPI, Django, Django REST Framework  
+**AI/ML:** LangGraph, LangChain, TensorFlow, PyTorch, Scikit-learn  
+**Data:** PostgreSQL, pgvector, Redis, MongoDB, SQLAlchemy  
+**DevOps:** Docker, AWS (S3, EC2), Azure App Service, GitHub Actions  
+**Tools:** Git, Postman, Swagger/OpenAPI, Streamlit
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=highfrezh&color=7BD9F6&labelcolor=20232A" alt="">
-</p>
+---
 
+### Experience
 
+- **Software Engineer** @ Toshconsult Technologies (Jul–Nov 2025)  
+  Built FastAPI APIs and PostgreSQL backends for 1,000+ user platform
 
+- **ML Backend Intern** @ Euron (Sep–Oct 2025)  
+  End-to-end ML pipeline for healthcare diagnostics, deployed via REST API
 
+---
 
+### Contact
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=highfrezh&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!--
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=highfrezh&show_icons=true&theme=tokyonight" 
-/>   
--->
-<!--
-**highfrezh/highfrezh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📧 olabintanibraheem@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/olabintan-ibraheem/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to backend engineering and AI automation roles.
