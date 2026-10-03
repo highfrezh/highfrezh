@@ -1,44 +1,54 @@
 ## Ibraheem Olabintan
 
-**Software Engineer | Python · FastAPI · AI Automation**
+**Software Engineer | .NET · Python**
 
-Lagos, Nigeria · Open to remote
+Lagos, Nigeria · Open to remote and relocation
 
-Backend engineer building production APIs and autonomous AI systems. I design stateful agent pipelines, REST APIs, and cloud-deployed infrastructure that turns complex workflows into reliable, scalable products.
+Software engineer building production web platforms and backend services in C# / ASP.NET Core and Python (FastAPI, Django). I ship products that real users can open today: an escrow-powered marketplace, community education platforms, and e-commerce.
 
 ---
 
 ### Featured Project
 
-**[FinAgent](https://github.com/highfrezh/FinAgent)** — Autonomous AI Invoice Processing  
-`Python · FastAPI · LangGraph · PostgreSQL · Redis · Docker · Streamlit`
+**[PadiPay](http://padipay.runasp.net/)**: Escrow-Powered Tech Freelance Marketplace (live)  
+`C# · ASP.NET Core MVC · Entity Framework Core · SQL Server · ASP.NET Core Identity · Bootstrap 5`
 
-Multi-agent system that automates enterprise invoice processing with 80% cost reduction.  
-- 4-agent pipeline: Ingestion → Validation → Anomaly Detection → Reporting
-- 6-rule anomaly engine with risk scoring and human-in-the-loop approval
-- Swappable LLM backends (Claude, Groq, Ollama) via environment config
-- Deployed with Docker Compose, real-time Streamlit dashboard
+A Nigeria-focused marketplace where buyer funds are held in escrow and released only when delivered work is approved.
+- Escrow state machine: Funded → Delivered → Released
+- Wallet and transaction logic on EF Core with SQL Server
+- Authentication and registration with ASP.NET Core Identity
+- Gig creation, category browsing, and search
 
+---
+
+### Live Django Platforms
+
+`Python · Django · PostgreSQL`
+
+- **[Islamic Guide UK](https://islamicguide.uk/)**: community education platform with a category-filtered library, level-assessment onboarding, Hijri calendar, and prayer times
+- **[AS Climate Goal](https://asclimategoal.org/)**: sustainability education CMS with multi-author articles, downloadable resources, and media handling
+- **[Oladiplenty Stylist Consult](https://oladiplentystylist.co.uk/)**: UK fashion e-commerce site with collections, cart, accounts, and bespoke ordering
 
 ---
 
 ### Stack
 
-**Backend:** Python, FastAPI, Django, Django REST Framework  
-**AI/ML:** LangGraph, LangChain, TensorFlow, PyTorch, Scikit-learn  
-**Data:** PostgreSQL, pgvector, Redis, MongoDB, SQLAlchemy  
-**DevOps:** Docker, AWS (S3, EC2), Azure App Service, GitHub Actions  
-**Tools:** Git, Postman, Swagger/OpenAPI, Streamlit
+**Languages:** C#, Python, SQL, JavaScript  
+**.NET:** ASP.NET Core MVC, ASP.NET Core Identity, Entity Framework Core, Razor  
+**Python:** FastAPI, Django, Django REST Framework, SQLAlchemy  
+**Data:** SQL Server, PostgreSQL, Redis, MongoDB  
+**AI/ML:** LangGraph, LangChain, Scikit-learn, TensorFlow, PyTorch  
+**Tools:** Git, Docker, Postman, Swagger/OpenAPI
 
 ---
 
 ### Experience
 
-- **Software Engineer** @ Toshconsult Technologies (Jul–Nov 2025)  
-  Built FastAPI APIs and PostgreSQL backends for 1,000+ user platform
+- **Python Developer** @ Toshconsult Technologies (Jul–Nov 2025)  
+  Built FastAPI APIs and PostgreSQL backends for a platform with 1,000+ users
 
 - **ML Backend Intern** @ Euron (Sep–Oct 2025)  
-  End-to-end ML pipeline for healthcare diagnostics, deployed via REST API
+  Built a healthcare diagnostics ML pipeline and exposed it through REST endpoints
 
 ---
 
@@ -47,4 +57,4 @@ Multi-agent system that automates enterprise invoice processing with 80% cost re
 - 📧 olabintanibraheem@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/olabintan-ibraheem/)
 
-Open to backend engineering and AI automation roles.
+Open to .NET and Python software engineering roles.
